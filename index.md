@@ -2,9 +2,9 @@
 
 ## Artist
 
-David Robert Jones OAL, known professionally as David Bowie, was an English singer-songwriter and actor. |  A leading figure in the music industry, Bowie is regarded as one of the most influential musicians of the 20th century.
-:----------:|:----------:
-![artist ava](images/ava2.png) | ![artist ava](images/ava.png)
+David Robert Jones OAL, known professionally as David Bowie, was an English singer-songwriter and actor. A leading figure in the music industry, Bowie is regarded as one of the most influential musicians of the 20th century.
+
+![artist ava](images/ava2.png)![artist ava](images/ava.png)
 
 ## Album
 
