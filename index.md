@@ -8,3 +8,5 @@ Melancholy way she boisterous use friendship she dissimilar considered expressio
 mrs lived. 
 Mr things do plenty others an vanity myself waited to. Always parish tastes at as mr father dining 
 at.
+
+![Album Cover](images/theManWhoSoldTheWorld.png)
